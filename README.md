@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thunwa</h1>
 <h3 align="center">Comsci Student at KMUTT</h3>
 
+![giphy](https://github.com/user-attachments/assets/1b2ddefd-3e2b-4c8e-998d-c566df8c998a)
+
 - 🔭 I’m currently working on **Thai Sign Language Translator**
 
 - 🌱 I’m currently learning **React Native, ML, Computer Vision**
