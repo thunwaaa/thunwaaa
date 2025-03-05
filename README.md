@@ -2,7 +2,7 @@
 <h3 align="center">Comsci Student at KMUTT</h3>
 
 <p align="center">
-![giphy](https://github.com/user-attachments/assets/1b2ddefd-3e2b-4c8e-998d-c566df8c998a)
+<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcheckmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85&psig=AOvVaw3uIfbRKQ_k7DIe_Lf1iLOq&ust=1741252585171000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDc5sHN8osDFQAAAAAdAAAAABBp" alt="gif"/>
 </p>
 
 - 🔭 I’m currently working on **Thai Sign Language Translator**
