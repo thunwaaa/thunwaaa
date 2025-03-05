@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thunwa</h1>
 <h3 align="center">Comsci Student at KMUTT</h3>
 
-<div align="center">
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcheckmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85&psig=AOvVaw3uIfbRKQ_k7DIe_Lf1iLOq&ust=1741252585171000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDc5sHN8osDFQAAAAAdAAAAABBp" alt="gif"/>
-</div>
+![Uploading giphy.gif…]()
 
 - 🔭 I’m currently working on **Thai Sign Language Translator**
 
