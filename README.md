@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thunwa</h1>
 <h3 align="center">Comsci Student at KMUTT</h3>
 
-![Uploading giphy.gif…]()
+![giphy](https://github.com/user-attachments/assets/88edc5f3-b543-4119-9097-1b1d26a96466)
 
 - 🔭 I’m currently working on **Thai Sign Language Translator**
 
