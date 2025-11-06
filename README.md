@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Structure and Algorithms Plyground**
 
-- 🌱 I’m currently learning **React Native, ML, NLP< Data Science**
+- 🌱 I’m currently learning **React Native, ML, NLP, Data Science**
 
 - 📫 How to reach me **sittan.knt@gmail.com**
 
