@@ -3,11 +3,11 @@
 
 ![giphy](https://github.com/user-attachments/assets/88edc5f3-b543-4119-9097-1b1d26a96466)
 
-- 🔭 I’m currently working on **Thai Sign Language Translator**
+- 🔭 I’m currently working on **Data Structure and Algorithms Plyground**
 
-- 🌱 I’m currently learning **React Native, ML, Computer Vision**
+- 🌱 I’m currently learning **React Native, ML, NLP< Data Science**
 
-- 📫 How to reach me **sittankunanit2008@gmail.com**
+- 📫 How to reach me **sittan.knt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
